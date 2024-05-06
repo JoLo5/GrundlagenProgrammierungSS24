@@ -26,7 +26,7 @@ Python: The learning content for Python starts on 05-07-2024 and will be updated
 
 The repository includes:
 
-Exercises: All graded exercises of the module including solutions.(Called Uebungsleistung)
+Exercises: All graded exercises of the module including solutions.(Called Leistungseinheit)
 Practice Tasks: Exemplary solutions for the practice tasks. (Called Uebungen)
 Notes: Summaries of the lecture content. (Called Notizen_Vorlesung)
 
