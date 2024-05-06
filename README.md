@@ -14,20 +14,25 @@ This module is led by Prof. Dr. Christian Schiefer.
 Learning Platforms and Course References:
 
 The knowledge imparted in this repository is based on the following learning platforms and courses:
+  
   -"Programming with R for Beginners" on Open HPI
+  
   -"Python for Beginners" on OpenSAP
 
 
 Current Content:
 
 R: All learning content for R has already been developed and completed.
+
 Python: The learning content for Python starts on 05-07-2024 and will be updated weekly.
 
 
 The repository includes:
 
 Exercises: All graded exercises of the module including solutions.(Called Leistungseinheit)
+
 Practice Tasks: Exemplary solutions for the practice tasks. (Called Uebungen)
+
 Notes: Summaries of the lecture content. (Called Notizen_Vorlesung)
 
 
