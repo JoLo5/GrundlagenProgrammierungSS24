@@ -8,7 +8,7 @@ This repository serves as a learning environment for the module "Applied Program
 
 Responsible Lecturer:
 
-This module is led by Prof. Dr. Christian Schiefer.
+This module is led by Prof. Dr. Christian Schieder.
 
 
 Learning Platforms and Course References:
