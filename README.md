@@ -1,7 +1,7 @@
 # GrundlagenProgrammierungSS24
 Repository for the module "Application-Oriented Programming Fundamentals" in the summer semester of 2024 at the University of Applied Sciences Amberg-Weiden
 
-Introduction:
+## Introduction:
 
 This repository serves as a learning environment for the module "Applied Programming Fundamentals" in the summer semester 2024 at the Ostbayerische Technische Hochschule Amberg-Weiden. The goal is to learn the programming languages R and Python.
 
